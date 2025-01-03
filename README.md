@@ -4,3 +4,5 @@
 3. run the .msi file and install the application
    
   Enjoy pulling Aizen in 1,000,000 pulls :3. **BTW you can just spam click the 10 pull button + pressing enter key(shortcut instead of clickin ok when the pull result displays) for faster pull.**
+
+      The drop rates are referenced to the actual rates ingame in Anime Adventures
